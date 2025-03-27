@@ -1,5 +1,7 @@
 # Income Expense Calculator
 
+![Demo](https://github.com/user-attachments/assets/51071a02-37f5-4ba5-a955-c6e7f02d502b)
+
 ## Description
 This is a simple web application to manage and track income and expenses. Users can add, edit, delete entries, and filter data by type.
 
